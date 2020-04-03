@@ -2,7 +2,7 @@
 Acest proiect reprezinta o librarie CSS pentru a creea structuri chimice (substante) si ecuatii folosind doar HTML.
 ###Documentatia nu suporta diacritice!!!
 
-![Exmplu de compus](/exemple/compus_organic_2.png)
+![Exmplu de compus](/compus_organic_2.png)
 
 ###Cuprinsul documentatiei:
 
@@ -69,7 +69,7 @@ Adaugarea legaturilor se va face utilizand tag-ul ```<hr>``` ca o metoda de deli
 </div>
 ```
 Va genera urmatoarea imagine:
-![Exemplu de compus](/exemple/compus_organic_1.png)
+![Exemplu de compus](/compus_organic_1.png)
 
 ##Tipuri de legaturi
 Sunt deja facute cateva tipuri de legaturi comune. Aceasta este lista lor: <br>
